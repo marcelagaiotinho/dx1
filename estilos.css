@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(196, 182, 247);
+    color: rgb(0, 7, 13);
+    font-size: xx-large;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+}
+
+
+
+button {
+    background-color: #ffffff;
+    color: rgb(75, 41, 147);
+    border: 2px solid #DCDCDC;
+}
+
